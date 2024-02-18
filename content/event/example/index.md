@@ -62,10 +62,10 @@ description: ''
 # projects:
 #   - example
 ---
-- <div><p style="text-align: left">National University of Singapore, Department of Communication and New Media</p> <p style="text-align: right"> 2024</p></div>
-- Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop  <div style="text-align: right">2024</div>
-- <div style="text-align: left"> Peking University, National School of Development Political Economy Workshop</div>     <div style="text-align: right"> 2023</div>
-- Tsinghua University, Computational Social Science Workshop              <div style="text-align: right"> 2023</div>
+- National University of Singapore, Department of Communication and New Media, 2024
+- Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Worksho, 2024
+- Peking University, National School of Development Political Economy Workshop, 2023
+- Tsinghua University, Computational Social Science Workshop, 2023
 - Tsinghua University, Junior Faculty Research Workshop, 2023
 - Shenzhen University, School of Government, 2023
 - Shenzhen University, School of Communication, 2023
