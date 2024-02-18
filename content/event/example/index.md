@@ -19,6 +19,7 @@ summary: List of selected invited talks.
 # #   End time can optionally be hidden by prefixing the line with `#`.
 # date: '2030-06-01T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
+showdate: false
 date: '2024-02-18'
 # date_end: ''
 # all_day: false
@@ -61,7 +62,7 @@ description: ''
 # projects:
 #   - example
 ---
-- National University of Singapore, Department of Communication and New Media <p style="text-align: right"> 2024</p>
+- <div><p style="text-align: left">National University of Singapore, Department of Communication and New Media</p> <p style="text-align: right"> 2024</p></div>
 - Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop  <div style="text-align: right">2024</div>
 - <div style="text-align: left"> Peking University, National School of Development Political Economy Workshop</div>     <div style="text-align: right"> 2023</div>
 - Tsinghua University, Computational Social Science Workshop              <div style="text-align: right"> 2023</div>
