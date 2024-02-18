@@ -218,6 +218,7 @@ sections:
     id: talks
     content:
       title: Selected Invited Talks 
+      subtitle: ''
       filters:
         folders:
           - event
@@ -233,8 +234,7 @@ sections:
     id: contact
     content:
       title: Contact
-      text: |-
-        ''
+      text: '' #|-
       # Contact (add or remove contact options as necessary)
       email: kaipingz@tsinghua.edu.cn
       phone: (86) 10-62789185

@@ -22,7 +22,7 @@ title: Selected Invited Talks
 date: ''
 date_end: ''
 # all_day: false
-
+description: ''
 # # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
@@ -61,10 +61,10 @@ date_end: ''
 # projects:
 #   - example
 ---
-- National University of Singapore, Department of Communication and New Media                         <div style="text-align: right"> 2-24</div>
-- Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop                                                           2024
-- Peking University, National School of Development Political Economy Workshop                          2023
-- Tsinghua University, Computational Social Science Workshop                                                            2023
+- National University of Singapore, Department of Communication and New Media <div style="text-align: right"> 2024</div>
+- Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop  <div style="text-align: right">2024</div>
+- Peking University, National School of Development Political Economy Workshop     <div style="text-align: right"> 2023</div>
+- Tsinghua University, Computational Social Science Workshop              <div style="text-align: right"> 2023</div>
 - Tsinghua University, Junior Faculty Research Workshop                                                                      2023
 - Shenzhen University, School of Government                                                                                            2023
 - Shenzhen University, School of Communication                                                                                      2023
