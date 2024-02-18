@@ -219,9 +219,10 @@ sections:
     content:
       title: Publications 
       subtitle: ''
-      filters:
-        folders:
-          - pubs
+      url: pubs/
+      # filters:
+      #   folders:
+      #     - pubs
     design:
       columns: '2'
       view: compact
