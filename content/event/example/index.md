@@ -12,15 +12,15 @@ title: Selected Invited Talks
 #   postcode: '94305'
 #   country: United States
 
-# summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: List of selected invited talks.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # # Talk start and end times.
 # #   End time can optionally be hidden by prefixing the line with `#`.
 # date: '2030-06-01T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
-date: ''
-date_end: ''
+date: '2024-02-18'
+# date_end: ''
 # all_day: false
 description: ''
 # # Schedule page publish date (NOT talk date).
@@ -61,9 +61,9 @@ description: ''
 # projects:
 #   - example
 ---
-- National University of Singapore, Department of Communication and New Media <div style="text-align: right"> 2024</div>
+- National University of Singapore, Department of Communication and New Media <p style="text-align: right"> 2024</p>
 - Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop  <div style="text-align: right">2024</div>
-- Peking University, National School of Development Political Economy Workshop     <div style="text-align: right"> 2023</div>
+- <div style="text-align: left"> Peking University, National School of Development Political Economy Workshop</div>     <div style="text-align: right"> 2023</div>
 - Tsinghua University, Computational Social Science Workshop              <div style="text-align: right"> 2023</div>
 - Tsinghua University, Junior Faculty Research Workshop                                                                      2023
 - Shenzhen University, School of Government                                                                                            2023
