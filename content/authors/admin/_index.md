@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kaiping Zhang 张开平
+title: Kaiping Zhang
 
 # Name pronunciation (optional)
 name_pronunciation: ''

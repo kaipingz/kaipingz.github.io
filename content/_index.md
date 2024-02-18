@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   # - block: experience
   #   content:
   #     title: Experience
@@ -217,7 +217,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Selected invited talks 
+      title: Selected Invited Talks 
       filters:
         folders:
           - event
@@ -233,19 +233,17 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        ''
       # Contact (add or remove contact options as necessary)
       email: kaipingz@tsinghua.edu.cn
       phone: (86) 10-62789185
       address:
         street: Ming Bldg., Rm 245
         city: Beijing
-        region: Beijing
         postcode: '100084'
         country: China
-        country_code: US
+        # country_code: US
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # Automatically link email and phone or display as text?
       autolink: false

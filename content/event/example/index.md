@@ -1,5 +1,5 @@
 ---
-title: Invited Talks
+title: Selected Invited Talks
 
 # event: Hugo Blox Builder Conference
 # event_url: https://example.org
@@ -19,6 +19,8 @@ title: Invited Talks
 # #   End time can optionally be hidden by prefixing the line with `#`.
 # date: '2030-06-01T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
+date: ''
+date_end: ''
 # all_day: false
 
 # # Schedule page publish date (NOT talk date).
@@ -59,8 +61,28 @@ title: Invited Talks
 # projects:
 #   - example
 ---
+- National University of Singapore, Department of Communication and New Media                         <div style="text-align: right"> 2-24</div>
+- Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop                                                           2024
+- Peking University, National School of Development Political Economy Workshop                          2023
+- Tsinghua University, Computational Social Science Workshop                                                            2023
+- Tsinghua University, Junior Faculty Research Workshop                                                                      2023
+- Shenzhen University, School of Government                                                                                            2023
+- Shenzhen University, School of Communication                                                                                      2023
+- Beijing Foreign Language University, School of International Relations, Junior Scholar Seminar     
+        2023
+- University of International Business and Economics, Department of Political Science                   2023
+ Tsinghua University, School of Journalism and Communication                                                         2023
+ Beijing Normal University, School of New Media                                                                                     2022
+ China Agricultural University, School of Public Administration (online)                                            2022
+ UCSD China Workshop (online)                                                   					    2022
+ Tsinghua University, School of Journalism and Communication 				    2021
+ Renmin University of China, School of International Relations					    2021
+ Beijing Normal University, China Media Credibility Forum 					    2021
+ Political Science Speaker Series (online)  								    2021
+ Tsinghua University, School of Public Administration						    2019
+ Shandong University, School of Government						                 2018
+ Tsinghua University, School of Journalism and Communication 			                 2018
 
-TODO
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
