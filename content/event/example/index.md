@@ -66,23 +66,22 @@ description: ''
 - Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop  <div style="text-align: right">2024</div>
 - <div style="text-align: left"> Peking University, National School of Development Political Economy Workshop</div>     <div style="text-align: right"> 2023</div>
 - Tsinghua University, Computational Social Science Workshop              <div style="text-align: right"> 2023</div>
-- Tsinghua University, Junior Faculty Research Workshop                                                                      2023
-- Shenzhen University, School of Government                                                                                            2023
-- Shenzhen University, School of Communication                                                                                      2023
-- Beijing Foreign Language University, School of International Relations, Junior Scholar Seminar     
-        2023
-- University of International Business and Economics, Department of Political Science                   2023
- Tsinghua University, School of Journalism and Communication                                                         2023
- Beijing Normal University, School of New Media                                                                                     2022
- China Agricultural University, School of Public Administration (online)                                            2022
- UCSD China Workshop (online)                                                   					    2022
- Tsinghua University, School of Journalism and Communication 				    2021
- Renmin University of China, School of International Relations					    2021
- Beijing Normal University, China Media Credibility Forum 					    2021
- Political Science Speaker Series (online)  								    2021
- Tsinghua University, School of Public Administration						    2019
- Shandong University, School of Government						                 2018
- Tsinghua University, School of Journalism and Communication 			                 2018
+- Tsinghua University, Junior Faculty Research Workshop, 2023
+- Shenzhen University, School of Government, 2023
+- Shenzhen University, School of Communication, 2023
+- Beijing Foreign Language University, School of International Relations, Junior Scholar Seminar, 2023
+- University of International Business and Economics, Department of Political Science, 2023
+- Tsinghua University, School of Journalism and Communication, 2023
+- Beijing Normal University, School of New Media, 2022
+- China Agricultural University, School of Public Administration (online), 2022
+- UCSD China Workshop (online), 2022
+- Tsinghua University, School of Journalism and Communication, 2021
+- Renmin University of China, School of International Relations, 2021
+- Beijing Normal University, China Media Credibility Forum, 2021
+- Political Science Speaker Series (online), 2021
+- Tsinghua University, School of Public Administration, 2019
+- Shandong University, School of Government, 2018
+- Tsinghua University, School of Journalism and Communication, 2018
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
