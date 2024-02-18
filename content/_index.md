@@ -214,7 +214,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-  - block: markdown
+  - block: collection # markdown
     id: Publications
     content:
       title: Publications 
