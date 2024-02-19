@@ -111,5 +111,5 @@ highlight_name: true
 
 I am Associate Professor at Tsinghua University. My research interests include Chinese politics and governance, political communication, deliberative democracy, and computational social science. 
 
-This is my {{% staticref "uploads/Curriculum Vitae_Kaiping Zhang_20240216.pdf" %}}CV{{% /staticref %}}. The Chinese version is here.
+{{% staticref "uploads/Curriculum Vitae_Kaiping Zhang_20240216.pdf" %}}This is my CV{{% /staticref %}}. The Chinese version is here.
 {style="text-align: justify;"}

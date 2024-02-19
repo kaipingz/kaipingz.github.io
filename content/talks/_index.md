@@ -61,6 +61,7 @@ description: ''
 # #   Otherwise, set `projects = []`.
 # projects:
 #   - example
+share: false
 ---
 
 - National University of Singapore, Department of Communication and New Media, 2024

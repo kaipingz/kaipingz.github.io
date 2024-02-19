@@ -17,6 +17,8 @@ view: 2
 # header:
 #   caption: ''
 #   image: ''
+
+share: false
 ---
 1.	Zhang, K., Liu, S. and Huang, Z. “Winning Hearts and Minds: Does Social Media Propaganda Increase Affective Legitimacy?" 
 Top Paper Award, Political Communication Division, International Communication Association, 2023

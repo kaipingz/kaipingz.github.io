@@ -17,6 +17,7 @@ view: 2
 # header:
 #   caption: ''
 #   image: ''
+share: false
 ---
 1. Lecturer, Department of Political Science, Tsinghua University, 2019 - 
 - Political Communication (undergraduate level)
