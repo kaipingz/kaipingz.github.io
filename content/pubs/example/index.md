@@ -62,7 +62,7 @@ description: ''
 # projects:
 #   - example
 ---
-
+Pubs
 - National University of Singapore, Department of Communication and New Media, 2024
 - Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Worksho, 2024
 - Peking University, National School of Development Political Economy Workshop, 2023
