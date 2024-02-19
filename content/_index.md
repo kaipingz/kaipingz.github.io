@@ -214,18 +214,18 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-  - block: collection # markdown
-    id: Publications
-    content:
-      title: Publications 
-      subtitle: ''
-      url: pubs/
-      # filters:
-      #   folders:
-      #     - pubs
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection # markdown
+  #   id: Publications
+  #   content:
+  #     title: Publications 
+  #     subtitle: ''
+  #     url: pubs/
+  #     # filters:
+  #     #   folders:
+  #     #     - pubs
+  #   design:
+  #     columns: '2'
+  #     view: compact
   - block: collection
     id: talks
     content:

@@ -1,5 +1,10 @@
 ---
-title: Publications
+author: Kaiping Zhang
+title: Selected Publications
+date: "2021-07-29"
+draft: false
+subtitle: See the selected list of academic publications (links and pdf). 
+layout: single
 cms_exclude: true
 
 # View.
@@ -9,7 +14,8 @@ cms_exclude: true
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
+# header:
+#   caption: ''
+#   image: ''
 ---
+TEST
