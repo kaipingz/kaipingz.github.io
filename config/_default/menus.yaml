@@ -17,7 +17,7 @@ main:
     url: pubs/
     weight: 20
   - name: Working Papers
-    url: pubs/
+    url: working-papers/
     weight: 30
   # - name: Talks
   #   url: '#talks'
