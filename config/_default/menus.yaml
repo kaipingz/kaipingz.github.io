@@ -19,6 +19,12 @@ main:
   - name: Publications
     url: pubs/
     weight: 50
+  - name: Teaching
+    url: teaching/
+    weight: 55
+  - name: honors&grants
+    url: honors&grants/
+    weight: 57
   - name: Contact
     url: '#contact'
     weight: 60
