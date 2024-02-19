@@ -18,7 +18,6 @@ view: 2
 #   caption: ''
 #   image: ''
 ---
-## Teaching
 1. Lecturer, Department of Political Science, Tsinghua University, 2019 - 
 - Political Communication (undergraduate level)
 - Movie and Politics (undergraduate level)

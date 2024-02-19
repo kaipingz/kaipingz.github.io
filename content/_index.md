@@ -226,17 +226,17 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  - block: collection
-    id: talks
-    content:
-      title: Selected Invited Talks 
-      subtitle: ''
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Selected Invited Talks 
+  #     subtitle: ''
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics

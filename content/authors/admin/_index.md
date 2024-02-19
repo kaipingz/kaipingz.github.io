@@ -22,7 +22,7 @@ role: Associate Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Tsinghua University
-    url: https://www.tsinghua.edu.cn
+    url: https://www.dps.tsinghua.edu.cn/info/1180/2342.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Chinese politics and governance, political communication, deliberative democracy, computational social science.
@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Kaiping Zhang is an associate professor at Tsinghua University. Her research interests include Chinese politics and governance, political communication, deliberative democracy, and computational social science.
+I am Associate Professor at Tsinghua University. My research interests include Chinese politics and governance, political communication, deliberative democracy, and computational social science. This is my [CV](uploads/Curriculum Vitae_Kaiping Zhang_20240216.pdf)
 {style="text-align: justify;"}
