@@ -1,6 +1,6 @@
 ---
 author: Kaiping Zhang
-title: Selected Publications and Working Papers
+title: Working Papers
 date: "2024-02-18"
 draft: false
 subtitle: ''
