@@ -19,7 +19,8 @@ view: 2
 #   image: ''
 share: false
 ---
-## Publications
+# Publications
+
 Zhang, K., Zhao, J., and Meng, T. (forthcoming). “Governing China in Digit: A Framework for Assessing the Digital Governance in 101 Chinese Municipalities.” The China Review. 
 
 Zhang, K. (2023). “Political Communication Research in the Digital Age: Research Agenda, New Methods, and Paradigm Shift”. CASS Journal of Political Science (ranked as the #1 political science journal in China), 2023(05):193-206. (in Chinese)《数字时代的政治传播研究：理论重构、议题革新与范式转向》,《政治学研究》,2023年第5期。
