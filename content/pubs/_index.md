@@ -27,7 +27,7 @@ Zhang, K. (2023). “Political Communication Research in the Digital Age: Resear
 
 Zhang, K., Meng, T., & Huang Z. (2023) “The Rise of Soft Propaganda in China: Evidence from Big Data in 2009-2023.” Journalism and Communication (ranked as the #1 journalism and communication journal in China), 30(12):86-103+128. (in Chinese)《软宣传的兴起、特征与效果：基于2009-2023年主流媒体与政务新媒体的大数据分析》,《新闻与传播研究》，2023年第12期。
 
-Zhang, K., He, B., & Wu, J. (2021). “Double Trouble? Effects Of Social Conflict and Foreign Investment on Consultative Authoritarianism in China.” Contemporary Politics, 27(4), 371-396.
+Zhang, K., He, B., & Wu, J. (2021). “[Double Trouble? Effects Of Social Conflict and Foreign Investment on Consultative Authoritarianism in China.](https://www.researchgate.net/publication/349454469_Double_trouble_Effects_of_social_conflict_and_foreign_investment_on_consultative_authoritarianism_in_China)” Contemporary Politics, 27(4), 371-396.
 
 Zhang, K. & Meng, T. (2021). “Donation Behavior during the COVID-19 Pandemic: Social Capital, Political Trust and Media Selection.” (in Chinese) Chinese Journal of Social Development (CSSCI), 8(02):152-179.《公共卫生危机中的捐助行为：社会资本、政治信任与媒介选择》，《社会发展研究》，2021年第5期。
 
