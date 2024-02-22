@@ -10,7 +10,8 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: hero-academic.png
+        filename: THU.svg
+        # filename: hero-academic.png
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
