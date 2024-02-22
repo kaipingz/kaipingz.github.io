@@ -10,7 +10,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: THU.svg
+        filename: thu.svg
         # filename: hero-academic.png
       cta:
         label: '**Get Started**'
