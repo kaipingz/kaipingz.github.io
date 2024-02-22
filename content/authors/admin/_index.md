@@ -102,8 +102,8 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: RG
-    icon_pack: ai
-    link: uploads/Curriculum Vitae_Kaiping Zhang_20240216.pdf
+    icon_pack: fab # ai
+    link: https://www.researchgate.net/profile/Kaiping-Zhang
 # % The Chinese version is [here](https://github.com/lzhyu/lzhyu.github.io/blob/main/static/uploads/CV-Kaiping-Chinese-20240220.pdf).
 # Highlight the author in author lists? (true/false)
 highlight_name: true
