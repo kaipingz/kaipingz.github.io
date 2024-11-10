@@ -85,7 +85,7 @@ Shenzhen University, School of Government, 2023
 
 Shenzhen University, School of Communication, 2023
 
-Beijing Foreign Language University, School of International Relations, Junior Scholar Seminar, 2023
+[Beijing Foreign Language University, School of International Relations, Junior Scholar Seminar, 2023](https://www.dps.tsinghua.edu.cn/info/1197/3003.htm)
 
 University of International Business and Economics, Department of Political Science, 2023
 
