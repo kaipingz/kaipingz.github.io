@@ -65,7 +65,7 @@ share: false
 ---
 # Invited Talks
 
-[Harvard-Yenching Institute, Fairbank Center for Chinese Studies at Harvard University, 2024](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/)
+[Harvard-Yenching Institute, Fairbank Center for Chinese Studies at Harvard University, 2024](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/)
 
 Boston University, Center for the Study of Asia, Pardee School of Global Studies, 2024
 
@@ -79,7 +79,7 @@ Peking University, National School of Development Political Economy Workshop, 20
 
 Tsinghua University, Computational Social Science Workshop, 2023
 
-Tsinghua University, Junior Faculty Research Workshop, 2023
+[Tsinghua University, Junior Faculty Research Workshop, 2023](https://www.sss.tsinghua.edu.cn/info/1223/7152.htm)
 
 Shenzhen University, School of Government, 2023
 
