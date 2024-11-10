@@ -114,7 +114,7 @@ Obtained my Ph.D. from the [Department of Communication at Stanford University](
 
 My scholarly contributions have appeared in peer-reviewed journals, including *Political Psychology*, *Contemporary Politics*, and *China Review*. My work has also been featured in top-tier Chinese journals such as the *CASS Journal of Political Science and Journalism and Communication*. Before joining Tsinghua University, I worked as a Research Associate at the [Center for Deliberative Democracy](https://deliberation.stanford.edu) at Stanford University and participated in multiple Deliberative Pollings led by [Professor James Fishkin](https://politicalscience.stanford.edu/people/james-fishkin) across the world. I have received several awards, notably the Top Paper Award from the Division of Political Communication at the 73rd Annual Conference of the International Communication Association. 
 
-{{% staticref "uploads/Curriculum Vitae_Kaiping Zhang_20240216.pdf" %}}This is my CV{{% /staticref %}}. 
+{{% staticref "uploads/Curriculum Vitae_Kaiping Zhang_202411.pdf" %}}This is my CV{{% /staticref %}}. 
 {{% staticref "uploads/CV-Kaiping-Chinese-20240220.pdf" %}} The Chinese version is here {{% /staticref %}}. 
 
 {style="text-align: justify;"}
