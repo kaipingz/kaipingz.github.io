@@ -21,6 +21,15 @@ share: false
 ---
 # Publications
 
+Zhao, Z., and Zhang, K*. (forthcoming) “The Rule of Discourse: How Ideas and Institutions Influence China’s COVID policy.” Journal of Contemporary China.
+
+Zhang, K., Wang, T., and Zhuang, M. (forthcoming) “Can Platform-based Digital Participatory Budgeting Increase Citizen Engagement? Evidence from Big Data and Surveys.” Public Management Review. (in Chinese)《数字平台中介的全过程公众参与：基于平台数据与调查数据的实证分析》，《公共管理评论》，待刊。
+
+Wang, T. and Zhang, K*. “Make Consultative Governance Work: Evidence from a National Survey in China.” Peking University Political Science Review, 17, 157-176. (in Chinese)《地方治理中的协商民主实证研究》，《北大政治学评论》，2024年第17辑。
+
+Zhang, K., Wang, T., & Zhuang, M. “Embedded Empowerment of Digital Technologies in Urban Deliberative Governance: A Case Study of Participatory Budgeting in Chengdu.” Journal of Jiangxi Normal University, 57(04), 54-65. (in Chinese)《数字技术与城市协商治理的内嵌式互动——基于C市参与式预算的案例研究》，《江西师范大学评论》，2024年第4期。
+
+
 Zhang, K., Zhao, J., and Meng, T. (forthcoming). “Governing China in Digit: A Framework for Assessing the Digital Governance in 101 Chinese Municipalities.” The China Review. 
 
 Zhang, K. (2023). “Political Communication Research in the Digital Age: Research Agenda, New Methods, and Paradigm Shift”. CASS Journal of Political Science (ranked as the #1 political science journal in China), 2023(05):193-206. (in Chinese)[《数字时代的政治传播研究：理论重构、议题革新与范式转向》](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=POLI202305015&uniplatform=OVERSEA&v=rA_XkQqnoptYUgEz_bc3gTz1J7bqkLBEw5ucOGMh2oM_8vvKp66FlbsxumSW6ugn),《政治学研究》,2023年第5期。
