@@ -108,7 +108,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! I am an Associate Professor in the [Department of Political Science at Tsinghua University](https://www.dps.tsinghua.edu.cn), where I also hold the position of Deputy Director of the [Center for Data Governance](http://thucdg.com/index). Currently, I am a visiting scholar at [the Harvard-Yenching Institute](https://www.harvard-yenching.org/person/kaiping-zhang/) during the academic year 2024-2025.
+Hello! I am an Associate Professor in the [Department of Political Science at Tsinghua University](https://www.dps.tsinghua.edu.cn/info/1180/2342.htm), where I also hold the position of Deputy Director of the [Center for Data Governance](http://thucdg.com/index). Currently, I am a visiting scholar at the [Harvard-Yenching Institute](https://www.harvard-yenching.org/person/kaiping-zhang/) during the academic year 2024-2025.
 
 Obtained my Ph.D. from the [Department of Communication at Stanford University](https://comm.stanford.edu), I explore how communication processes--such as propaganda, deliberation, and social information sharing facilitated by digital technologies--shape public opinion, policymaking, and international relations.without the facilitation of digital technologies, shape Chinese politics, steer public opinion, shape political narratives, and impact policy decisions. Employing an interdisciplinary approach that integrates political science, communication studies, and computational social science, my research utilizes both qualitative and innovative quantitative methods to illuminate the intricate interplay between technology, politics, and society. 
 
