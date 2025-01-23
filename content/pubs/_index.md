@@ -19,7 +19,16 @@ view: 2
 #   image: ''
 share: false
 ---
-# Publications
+
+<style>
+/* 修改 body 的文字颜色为 #666666 (深灰) */
+body {
+    color: #666666 !important;
+}
+</style>
+
+# <span style="color:black;font-family:Times New Roman">**Publications**</span>
+
 Zhao, Z., and Zhang, K*. (forthcoming) “The Rule of Discourse: How Ideas and Institutions Influence China’s COVID policy.” *Journal of Contemporary China*.
 
 Zhang, K., Zhao, J., and Meng, T. “[Governing China in Digit: A Framework for Assessing the Digital Governance in 101 Chinese Municipalities.](https://www.jstor.org/stable/48788934)” *The China Review*, 24(3),207-240. 
@@ -32,7 +41,7 @@ Zhang, K., & Meng, T. (2018). “[Political Elites in Deliberative Democracy: Be
 
 Zhang, K., and Kizilcec R. F. (2014). “[Anonymity in social media: Effects of content controversiality and social endorsement on sharing behavior.](https://ojs.aaai.org/index.php/ICWSM/article/view/14573)” *Proceedings of the Eighth International AAAI Conference on Weblogs and Social Media*. 
 
-# Publications in Chinese
+# <span style="color:black;font-family:Times New Roman">**Publications in Chinese**</span>
 
 Zhang, K. "Experimental Methods with Generative AI in Political Communication Research" (forthcoming). *World Economy and Politics* (in Chinese) 国际政治传播研究的人工智能实验方法，《世界经济与政治》
 
