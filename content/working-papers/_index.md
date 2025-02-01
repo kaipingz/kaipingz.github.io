@@ -20,9 +20,34 @@ view: 2
 
 share: false
 ---
+
+<style>
+/* 修改 body 的文字颜色为 #666666 (深灰) */
+body {
+    color: #666666 !important;
+}
+</style>
+
 # Under Review
 
-Zhang, K., Liu, S. and Huang, Z. “Winning Hearts and Minds: Does Social Media Propaganda Increase Affective Legitimacy?" 
+Wedging and Chilling: How Government-Led Rumor Rebuttals Halt Online Activism without Persuasion 
+
+When Science Meets Politics: How Chinese Media Selectively Gatekeeps Health Experts during COVID-19
+
+The Polarization Paradox of Propaganda: Evidence from China during COVID-19
+
+Winning Hearts and Minds: Does Social Media Propaganda Increase the Affective Legitimacy of the Single-Party State?
+
+Cross-platform and Cross-national Agenda Setting: How Information Flows in East Asian Digital Ecosystems
+
+Leaders and Regime Changes in Authoritarian States (1946-2020)
+
+# Ongoing project 
+Navigating the Tides: Reciprocity of Media Negativity in U.S.-China Relations
+
+The Affective Dilemma of Security: Spatiotemporal Dynamics of Emotions in U.S.-China Relations
+
+<!-- Zhang, K., Liu, S. and Huang, Z. “Winning Hearts and Minds: Does Social Media Propaganda Increase Affective Legitimacy?" 
 Top Paper Award, Political Communication Division, International Communication Association, 2023
 
 Zhang, K., Zheng, S., and Meng, T. “A Tale of Two Pandemics: Propaganda-induced Polarization in Elite Discourse of COVID-19 on Chinese Social Media.” 
@@ -39,5 +64,5 @@ Wang, T. & Zhang, K*. “Does Digital Platform Increase Civic Participation in B
 
 Wang, T., Zhuang, M., & Zhang, K*. “How Digital Participatory Budgeting Empowers Deliberative Urban Governance.” (in Chinese)《数字技术如何赋能中国城市协商治理》。
 
-Wang, B., & Zhang, K*. “Four Faces of Deliberative Governance in China.” (in Chinese) 《让协商治理运转起来：公众参与的机会和意愿》。
+Wang, B., & Zhang, K*. “Four Faces of Deliberative Governance in China.” (in Chinese) 《让协商治理运转起来：公众参与的机会和意愿》。 -->
 
