@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: pubs/
     weight: 20
-  - name: Working Papers
+  - name: Research in Progress
     url: working-papers/
     weight: 30
   # - name: Talks

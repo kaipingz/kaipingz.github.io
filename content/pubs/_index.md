@@ -29,17 +29,17 @@ body {
 
 # <span style="color:black;font-family:Times New Roman">**Publications**</span>
 
-Zhao, Z., & Zhang, K. (2025). {{< staticref "uploads/The Rule of Discourse  How Ideas and Institutions Shape China s COVID Policy.pdf" >}}“The Rule of Discourse: How Ideas and Institutions Influence China’s COVID policy.”{{< /staticref >}} *Journal of Contemporary China*, 1-21.
+1. Zhao, Z., & Zhang, K. (2025). {{< staticref "uploads/The Rule of Discourse  How Ideas and Institutions Shape China s COVID Policy.pdf" >}}“The Rule of Discourse: How Ideas and Institutions Influence China’s COVID policy.”{{< /staticref >}} *Journal of Contemporary China*, 1-21.
 
-Zhang, K., Zhao, J., and Meng, T. “[Governing China in Digit: A Framework for Assessing the Digital Governance in 101 Chinese Municipalities.](https://www.jstor.org/stable/48788934)” *The China Review*, 24(3),207-240. 
+2. Zhang, K., Zhao, J., and Meng, T. “[Governing China in Digit: A Framework for Assessing the Digital Governance in 101 Chinese Municipalities.](https://www.jstor.org/stable/48788934)” *The China Review*, 24(3),207-240. 
 
-Zhang, K., He, B., & Wu, J. (2021). “[Double Trouble? Effects Of Social Conflict and Foreign Investment on Consultative Authoritarianism in China.](https://www.tandfonline.com/doi/full/10.1080/13569775.2021.1884376)” *Contemporary Politics*, 27(4), 371-396.
+3. Zhang, K., He, B., & Wu, J. (2021). “[Double Trouble? Effects Of Social Conflict and Foreign Investment on Consultative Authoritarianism in China.](https://www.tandfonline.com/doi/full/10.1080/13569775.2021.1884376)” *Contemporary Politics*, 27(4), 371-396.
 
-Zhang, K. (2019). “[Encountering Dissimilar Views in Deliberation: Political Knowledge, Attitude Strength, And Opinion Change.](https://onlinelibrary.wiley.com/doi/10.1111/pops.12514)” *Political Psychology*, 40(2): 315-333.
+4. Zhang, K. (2019). “[Encountering Dissimilar Views in Deliberation: Political Knowledge, Attitude Strength, And Opinion Change.](https://onlinelibrary.wiley.com/doi/10.1111/pops.12514)” *Political Psychology*, 40(2): 315-333.
 
-Zhang, K., & Meng, T. (2018). “[Political Elites in Deliberative Democracy: Beliefs and Behaviors Of Chinese Officials.](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/abs/political-elites-in-deliberative-democracy-beliefs-and-behaviors-of-chinese-officials/102C607DF5E46D6536AEF515228130E4)” *Japanese Journal of Political Science*, 19(4): 643-662.
+5. Zhang, K., & Meng, T. (2018). “[Political Elites in Deliberative Democracy: Beliefs and Behaviors Of Chinese Officials.](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/abs/political-elites-in-deliberative-democracy-beliefs-and-behaviors-of-chinese-officials/102C607DF5E46D6536AEF515228130E4)” *Japanese Journal of Political Science*, 19(4): 643-662.
 
-Zhang, K., and Kizilcec R. F. (2014). “[Anonymity in social media: Effects of content controversiality and social endorsement on sharing behavior.](https://ojs.aaai.org/index.php/ICWSM/article/view/14573)” *Proceedings of the Eighth International AAAI Conference on Weblogs and Social Media*. 
+6. Zhang, K., and Kizilcec R. F. (2014). “[Anonymity in social media: Effects of content controversiality and social endorsement on sharing behavior.](https://ojs.aaai.org/index.php/ICWSM/article/view/14573)” *Proceedings of the Eighth International AAAI Conference on Weblogs and Social Media*. 
 
 # <span style="color:black;font-family:Times New Roman">**Publications in Chinese**</span>
 
