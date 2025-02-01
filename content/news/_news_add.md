@@ -74,6 +74,8 @@ body {
 
 [<p style="font-size: 30px;">Digital Democracy: Exploring New Forms of Democratic Representation, Participation, and Governance</p>](https://participedia.net/participediaschool)
 
+![img](PSchool-2025-China.png)
+
 We are thrilled to co-host the Participedia Summer School at Tsinghua with the International University of Japan, August 11–15, 2025! Join us for an inspiring week spanning Beijing and Niigata—don’t miss out on this unique global learning experience!
 
 Participedia Schools are intersectional, interdisciplinary, and international, democratic education spaces co-created by the Participedia community for students, practitioners, educators, government, and global civil society. Each Participedia School explores democratic innovations in a unique way, with new partners, in cities around the world.
