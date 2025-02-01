@@ -101,12 +101,15 @@ University of International Business and Economics, Department of Political Scie
 
 Tsinghua University, School of Journalism and Communication, 2023
 
+### 2022
+
 Beijing Normal University, School of New Media, 2022
 
 China Agricultural University, School of Public Administration (online), 2022
 
 UCSD China Workshop (online), 2022
 
+### 2021
 Tsinghua University, School of Journalism and Communication, 2021
 
 Renmin University of China, School of International Relations, 2021
@@ -115,8 +118,10 @@ Beijing Normal University, China Media Credibility Forum, 2021
 
 Political Science Speaker Series (online), 2021
 
+### 2019
 Tsinghua University, School of Public Administration, 2019
 
+### 2018
 Shandong University, School of Government, 2018
 
 Tsinghua University, School of Journalism and Communication, 2018
