@@ -28,6 +28,9 @@ main:
   - name: Teaching
     url: teaching/
     weight: 55
+  - name: News
+    url: news/
+    weight: 57
   # - name: honors&grants
   #   url: honors&grants/
   #   weight: 57
