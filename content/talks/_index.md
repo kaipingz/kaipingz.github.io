@@ -73,58 +73,58 @@ body {
 # <span style="color:black;">**Invited Talks**</span>
 
 ### 2024
-[Harvard-Yenching Institute](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/), [Fairbank Center for Chinese Studies at Harvard University, 2024](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/)
+[Harvard-Yenching Institute](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/), [Fairbank Center for Chinese Studies at Harvard University](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/)
 
-[Boston University, Center for the Study of Asia, Pardee School of Global Studies, 2024](https://www.bu.edu/asian/2024/08/01/media-politics-and-public-opinion-in-china-implications-for-international-relations/)
+[Boston University, Center for the Study of Asia, Pardee School of Global Studies](https://www.bu.edu/asian/2024/08/01/media-politics-and-public-opinion-in-china-implications-for-international-relations/)
 
-[Australian National University, Center on China in the World, 2024](https://www.anu.edu.au/events/chinas-window-to-the-world-how-media-platforms-communicate-about-foreign-affairs)
+[Australian National University, Center on China in the World](https://www.anu.edu.au/events/chinas-window-to-the-world-how-media-platforms-communicate-about-foreign-affairs)
 
-National University of Singapore, Department of Communication and New Media, 2024
+National University of Singapore, Department of Communication and New Media
 
-[Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop, 2024](https://wis.ntu.edu.sg/pls/webexe88/REGISTER_NTU.REGISTER?EVENT_ID=OA24011616322962)
+[Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop](https://wis.ntu.edu.sg/pls/webexe88/REGISTER_NTU.REGISTER?EVENT_ID=OA24011616322962)
 
 ### 2023
 
-Peking University, National School of Development Political Economy Workshop, 2023
+Peking University, National School of Development Political Economy Workshop
 
-Tsinghua University, Computational Social Science Workshop, 2023
+Tsinghua University, Computational Social Science Workshop
 
-[Tsinghua University, Junior Faculty Research Workshop, 2023](https://www.sss.tsinghua.edu.cn/info/1223/7152.htm)
+[Tsinghua University, Junior Faculty Research Workshop](https://www.sss.tsinghua.edu.cn/info/1223/7152.htm)
 
-Shenzhen University, School of Government, 2023
+Shenzhen University, School of Government
 
-Shenzhen University, School of Communication, 2023
+Shenzhen University, School of Communication
 
-[Beijing Foreign Language University, School of International Relations, Junior Scholar Seminar, 2023](https://www.dps.tsinghua.edu.cn/info/1197/3003.htm)
+[Beijing Foreign Language University, School of International Relations, Junior Scholar Seminar](https://www.dps.tsinghua.edu.cn/info/1197/3003.htm)
 
-University of International Business and Economics, Department of Political Science, 2023
+University of International Business and Economics, Department of Political Science
 
-Tsinghua University, School of Journalism and Communication, 2023
+Tsinghua University, School of Journalism and Communication
 
 ### 2022
 
-Beijing Normal University, School of New Media, 2022
+Beijing Normal University, School of New Media
 
-China Agricultural University, School of Public Administration (online), 2022
+China Agricultural University, School of Public Administration (online)
 
-UCSD China Workshop (online), 2022
+UCSD China Workshop (online)
 
 ### 2021
-Tsinghua University, School of Journalism and Communication, 2021
+Tsinghua University, School of Journalism and Communication
 
-Renmin University of China, School of International Relations, 2021
+Renmin University of China, School of International Relations
 
-Beijing Normal University, China Media Credibility Forum, 2021
+Beijing Normal University, China Media Credibility Forum
 
-Political Science Speaker Series (online), 2021
+Political Science Speaker Series (online)
 
 ### 2019
-Tsinghua University, School of Public Administration, 2019
+Tsinghua University, School of Public Administration
 
 ### 2018
-Shandong University, School of Government, 2018
+Shandong University, School of Government
 
-Tsinghua University, School of Journalism and Communication, 2018
+Tsinghua University, School of Journalism and Communication
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
