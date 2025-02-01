@@ -45,7 +45,7 @@ body {
 
 # <span style="color:black;">**Publications in Chinese**</span>
 
-[7] Zhang, K. (2025). "Experimental Methods with Generative AI in Political Communication Research" (forthcoming). *World Economy and Politics* (in Chinese) 国际政治传播研究的人工智能实验方法，《世界经济与政治》，2025年第1期。
+[7] Zhang, K. (2025). "Experimental Methods with Generative AI in Political Communication Research". *World Economy and Politics* (in Chinese) 国际政治传播研究的人工智能实验方法，《世界经济与政治》，2025年第1期。
 
 [8] Wang, T., Zhang, K., and Zhuang, M. (2025). “Can Platform-based Digital Participatory Budgeting Increase Citizen Engagement? Evidence from Big Data and Surveys.” *Public Management Review*. (in Chinese)《数字平台中介的全过程公众参与：基于平台数据与调查数据的实证分析》，《公共管理评论》， 2025年第1期.
 
