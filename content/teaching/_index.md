@@ -35,7 +35,7 @@ Political Communication (undergraduate level)
 
 Movie and Politics (undergraduate level)
 
-Teaching: Introduction to Public Administration (undergraduate level)
+Introduction to Public Administration (undergraduate level)
 
 Experimental Methods in Political Science (graduate level)
 
