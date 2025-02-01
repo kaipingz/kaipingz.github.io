@@ -19,13 +19,13 @@ view: 2
 #   image: ''
 share: false
 ---
-
+<!-- 
 <style>
 /* 修改 body 的文字颜色为 #666666 (深灰) */
 body {
     color: #666666 !important;
 }
-</style>
+</style> -->
 
 <!-- # <span style="color:black;font-family:Times New Roman">**Publications**</span> -->
 
@@ -47,7 +47,7 @@ body {
 
 [7] Zhang, K. (2025). "Experimental Methods with Generative AI in Political Communication Research". *World Economy and Politics* (in Chinese) 国际政治传播研究的人工智能实验方法，《世界经济与政治》，2025年第1期。
 
-[8] Wang, T., Zhang, K., and Zhuang, M. (2025). “Can Platform-based Digital Participatory Budgeting Increase Citizen Engagement? Evidence from Big Data and Surveys.” *Public Management Review*. (in Chinese)《数字平台中介的全过程公众参与：基于平台数据与调查数据的实证分析》，《公共管理评论》， 2025年第1期.
+[8] Wang, T., Zhang, K., and Zhuang, M. (2025). “Can Platform-based Digital Participatory Budgeting Increase Citizen Engagement? Evidence from Big Data and Surveys.” *Public Management Review*. (in Chinese)《数字平台中介的全过程公众参与：基于平台数据与调查数据的实证分析》，《公共管理评论》， 2025年第1期。
 
 [9] Wang B., Zhang, K*, Wang T. (2024). “Make Consultative Governance Work: Evidence from a National Survey in China.” *Peking University Political Science Review*, 17, 157-176. (in Chinese)《地方治理中的协商民主实证研究》，《北大政治学评论》，2024年第17辑。
 

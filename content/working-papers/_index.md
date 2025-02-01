@@ -21,16 +21,17 @@ view: 2
 share: false
 ---
 
-<style>
+<!-- <style>
 /* 修改 body 的文字颜色为 #666666 (深灰) */
 body {
     color: #666666 !important;
 }
-</style>
+</style> -->
 
 <!-- # <span style="color:black;font-family:Times New Roman">**Under Review**</span> -->
-# <span style="color:black;">**Research in Progress**</span>
+<!-- # <span style="color:black;">**Research in Progress**</span> -->
 
+# Research in Progress
 [1] Navigating the Tides: Reciprocity of Media Negativity in U.S.-China Relations with *Wei Zhong*, *Haoyi Tan*, and *Bingyan Wang*
 
 [2] The Affective Dilemma of Security: Spatiotemporal Dynamics of Emotions in U.S.-China Relations with *Xun Pang*, *Wei Zhong*, and *Haoyi Tan*

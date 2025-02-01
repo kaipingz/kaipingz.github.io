@@ -19,14 +19,16 @@ view: 2
 #   image: ''
 share: false
 ---
-<style>
+<!-- <style>
 /* 修改 body 的文字颜色为 #666666 (深灰) */
 body {
     color: #666666 !important;
 }
-</style>
+</style> -->
 
-# <span style="color:black;">**Teaching**</span>
+<!-- # <span style="color:black;">**Teaching**</span> -->
+
+# Teaching
 
 ### Lecturer, Department of Political Science, Tsinghua University, 2019 - 
 Political Communication (undergraduate level)
