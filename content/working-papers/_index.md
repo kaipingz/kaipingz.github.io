@@ -32,19 +32,19 @@ body {
 <!-- # <span style="color:black;">**Research in Progress**</span> -->
 
 # Research in Progress
-[1] Navigating the Tides: Reciprocity of Media Negativity in U.S.-China Relations with *Wei Zhong*, *Haoyi Tan*, and *Bingyan Wang*
+[1] Navigating the Tides: Reciprocity of Media Negativity in U.S.-China Relations, with *Wei Zhong*, *Haoyi Tan*, and *Bingyan Wang*
 
-[2] The Affective Dilemma of Security: Spatiotemporal Dynamics of Emotions in U.S.-China Relations with *Xun Pang*, *Wei Zhong*, and *Haoyi Tan*
+[2] The Affective Dilemma of Security: Spatiotemporal Dynamics of Emotions in U.S.-China Relations, with *Xun Pang*, *Wei Zhong*, and *Haoyi Tan*
 
-[3]	Cross-platform and Cross-national Agenda Setting: How Information Flows in East Asian Digital Ecosystems with *Zijing Zhao*, *Jiongyi Cao*, *Tianguang Meng*
+[3]	Cross-platform and Cross-national Agenda Setting: How Information Flows in East Asian Digital Ecosystems, with *Zijing Zhao*, *Jiongyi Cao*, *Tianguang Meng*
 
-[4]	Leaders and Regime Changes in Authoritarian States with *Yu Liu*, *Meng Zhu*, and *Wenquan Wu*
+[4]	Leaders and Regime Changes in Authoritarian States, with *Yu Liu*, *Meng Zhu*, and *Wenquan Wu*
 
-[5] Wedging and Chilling: How Government-Led Rumor Rebuttals Halt Online Activism without Persuasion with *Siyuan Gao*
+[5] Wedging and Chilling: How Government-Led Rumor Rebuttals Halt Online Activism without Persuasion, with *Siyuan Gao*
 
-[6] When Science Meets Politics: How Chinese Media Selectively Gatekeeps Health Experts during COVID-19 with *Bingyan Wang*
+[6] When Science Meets Politics: How Chinese Media Selectively Gatekeeps Health Experts during COVID-19, with *Bingyan Wang*
 
-[7] The Polarization Paradox of Propaganda: Evidence from China during COVID-19 with *Siyao Zheng* and *Tianguang Meng*
+[7] The Polarization Paradox of Propaganda: Evidence from China during COVID-19, with *Siyao Zheng* and *Tianguang Meng*
 
-[8] Winning Hearts and Minds: Does Social Media Propaganda Increase the Affective Legitimacy of the Single-Party State? With *Shiyao Liu*
+[8] Winning Hearts and Minds: Does Social Media Propaganda Increase the Affective Legitimacy of the Single-Party State? with *Shiyao Liu*
 
