@@ -37,6 +37,13 @@ description: ''
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
+image:
+  placement: 1
+  caption: 'News Photo'
+  focal_point: 'Center'
+  preview_only: false
+  alt_text: None
+
 # links:
 #   - icon: twitter
 #     icon_pack: fab
@@ -73,8 +80,9 @@ body {
 <!-- # <span style="color:black;">**Talks**</span> -->
 
 [<p style="font-size: 30px;">Digital Democracy: Exploring New Forms of Democratic Representation, Participation, and Governance</p>](https://participedia.net/participediaschool)
+<!-- 
+![img](featured.png) -->
 
-![img](PSchool-2025-China.png)
 
 We are thrilled to co-host the Participedia Summer School at Tsinghua with the International University of Japan, August 11–15, 2025! Join us for an inspiring week spanning Beijing and Niigata—don’t miss out on this unique global learning experience!
 
