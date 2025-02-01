@@ -30,7 +30,7 @@ body {
 
 <!-- # <span style="color:black;font-family:Times New Roman">**Under Review**</span> -->
 
-0️⃣ Wedging and Chilling: How Government-Led Rumor Rebuttals Halt Online Activism without Persuasion 
+[1] Wedging and Chilling: How Government-Led Rumor Rebuttals Halt Online Activism without Persuasion 
 
 2. When Science Meets Politics: How Chinese Media Selectively Gatekeeps Health Experts during COVID-19
 
