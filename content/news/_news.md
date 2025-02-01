@@ -72,7 +72,7 @@ body {
 
 <!-- # <span style="color:black;">**Talks**</span> -->
 
-# [Digital Democracy: Exploring New Forms of Democratic Representation, Participation, and Governance](https://participedia.net/participediaschool)
+[<p style="font-size: 30px;">Digital Democracy: Exploring New Forms of Democratic Representation, Participation, and Governance</p>](https://participedia.net/participediaschool)
 
 <!-- August 11-15, 2025 | Tsinghua University in Beijing, China and the International University of Japan in Minami Uonuma, Niigata, Japan
 
