@@ -72,6 +72,9 @@ body {
 
 # <span style="color:black;">**Invited Talks**</span>
 
+### 2025
+Harvard Kennedy School, Ash Center for Democratic Governance and Innovation
+
 ### 2024
 [Harvard-Yenching Institute](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/), [Fairbank Center for Chinese Studies at Harvard University](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/)
 
