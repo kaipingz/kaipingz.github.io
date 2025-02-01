@@ -73,7 +73,7 @@ body {
 # <span style="color:black;">**Invited Talks**</span>
 
 ### 2024
-[Harvard-Yenching Institute](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/), [Fairbank Center for Chinese Studies at Harvard University](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/), 2024
+[Harvard-Yenching Institute](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/), [Fairbank Center for Chinese Studies at Harvard University, 2024](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/)
 
 [Boston University, Center for the Study of Asia, Pardee School of Global Studies, 2024](https://www.bu.edu/asian/2024/08/01/media-politics-and-public-opinion-in-china-implications-for-international-relations/)
 
