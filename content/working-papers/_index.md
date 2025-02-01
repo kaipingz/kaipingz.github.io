@@ -30,19 +30,19 @@ body {
 
 <!-- # <span style="color:black;font-family:Times New Roman">**Under Review**</span> -->
 
-[1] Wedging and Chilling: How Government-Led Rumor Rebuttals Halt Online Activism without Persuasion 
+[1]	Cross-platform and Cross-national Agenda Setting: How Information Flows in East Asian Digital Ecosystems with Zijing Zhao, Jiongyi Cao, Tianguang Meng
 
-2. When Science Meets Politics: How Chinese Media Selectively Gatekeeps Health Experts during COVID-19
+[2]	Leaders and Regime Changes in Authoritarian States with Yu Liu, Meng Zhu, and Wenquan Wu
 
-3. The Polarization Paradox of Propaganda: Evidence from China during COVID-19
+[3] Navigating the Tides: Reciprocity of Media Negativity in U.S.-China Relations with Wei Zhong, Haoyi Tan, and Bingyan Wang
 
-4. Winning Hearts and Minds: Does Social Media Propaganda Increase the Affective Legitimacy of the Single-Party State?
+[4] The Affective Dilemma of Security: Spatiotemporal Dynamics of Emotions in U.S.-China Relations with Xun Pang, Wei Zhong, and Haoyi Tan
 
-5. Cross-platform and Cross-national Agenda Setting: How Information Flows in East Asian Digital Ecosystems
+[5] Wedging and Chilling: How Government-Led Rumor Rebuttals Halt Online Activism without Persuasion with Siyuan Gao
 
-6. Leaders and Regime Changes in Authoritarian States (1946-2020)
+[6] When Science Meets Politics: How Chinese Media Selectively Gatekeeps Health Experts during COVID-19 with Bingyan Wang
 
-7. Navigating the Tides: Reciprocity of Media Negativity in U.S.-China Relations
+[7] The Polarization Paradox of Propaganda: Evidence from China during COVID-19 with Siyao Zheng and Tianguang Meng
 
-8. The Affective Dilemma of Security: Spatiotemporal Dynamics of Emotions in U.S.-China Relations
+[8] Winning Hearts and Minds: Does Social Media Propaganda Increase the Affective Legitimacy of the Single-Party State? With Shiyao Liu
 
