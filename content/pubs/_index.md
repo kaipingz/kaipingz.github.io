@@ -27,7 +27,9 @@ body {
 }
 </style>
 
-# <span style="color:black;font-family:Times New Roman">**Publications**</span>
+<!-- # <span style="color:black;font-family:Times New Roman">**Publications**</span> -->
+
+# <span style="color:black;">**Publications**</span>
 
 [1] Zhao, Z., & Zhang, K. (2025). {{< staticref "uploads/The Rule of Discourse  How Ideas and Institutions Shape China s COVID Policy.pdf" >}}“The Rule of Discourse: How Ideas and Institutions Influence China’s COVID policy.”{{< /staticref >}} *Journal of Contemporary China*, 1-21.
 

@@ -70,7 +70,7 @@ body {
 }
 </style>
 
-# <span style="color:black;font-family:Times New Roman">**Invited Talks**</span>
+# <span style="color:black;">**Invited Talks**</span>
 
 [Harvard-Yenching Institute](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/), [Fairbank Center for Chinese Studies at Harvard University](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/), 2024
 

@@ -26,7 +26,7 @@ body {
 }
 </style>
 
-# <span style="color:black;font-family:Times New Roman">**Teaching**</span>
+# <span style="color:black;">**Teaching**</span>
 
 ### Lecturer, Department of Political Science, Tsinghua University, 2019 - 
 Political Communication (undergraduate level)
