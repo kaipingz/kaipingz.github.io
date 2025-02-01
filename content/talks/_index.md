@@ -72,7 +72,7 @@ body {
 
 <!-- # <span style="color:black;">**Talks**</span> -->
 
-# **Talks**
+# Talks
 ### 2025
 Harvard Kennedy School, Ash Center for Democratic Governance and Innovation
 

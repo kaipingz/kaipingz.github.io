@@ -29,8 +29,9 @@ body {
 
 <!-- # <span style="color:black;font-family:Times New Roman">**Publications**</span> -->
 
-# <span style="color:black;">**Publications**</span>
+<!-- # <span style="color:black;">**Publications**</span> -->
 
+# Publications
 [1] Zhao, Z., & Zhang, K. (2025). {{< staticref "uploads/The Rule of Discourse  How Ideas and Institutions Shape China s COVID Policy.pdf" >}}“The Rule of Discourse: How Ideas and Institutions Influence China’s COVID policy.”{{< /staticref >}} *Journal of Contemporary China*, 1-21.
 
 [2] Zhang, K., Zhao, J., and Meng, T. “[Governing China in Digit: A Framework for Assessing the Digital Governance in 101 Chinese Municipalities.](https://www.jstor.org/stable/48788934)” *The China Review*, 24(3),207-240. 
@@ -43,7 +44,9 @@ body {
 
 [6] Zhang, K., and Kizilcec R. F. (2014). “[Anonymity in social media: Effects of content controversiality and social endorsement on sharing behavior.](https://ojs.aaai.org/index.php/ICWSM/article/view/14573)” *Proceedings of the Eighth International AAAI Conference on Weblogs and Social Media*. 
 
-# <span style="color:black;">**Publications in Chinese**</span>
+<!-- # <span style="color:black;">**Publications in Chinese**</span> -->
+
+# Publications in Chinese
 
 [7] Zhang, K. (2025). "Experimental Methods with Generative AI in Political Communication Research". *World Economy and Politics* (in Chinese) 国际政治传播研究的人工智能实验方法，《世界经济与政治》，2025年第1期。
 
