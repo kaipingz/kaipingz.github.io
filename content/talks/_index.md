@@ -70,7 +70,7 @@ body {
 }
 </style>
 
-# <span style="color:black;">**Invited Talks**</span>
+# <span style="color:black;">**Talks**</span>
 
 ### 2025
 Harvard Kennedy School, Ash Center for Democratic Governance and Innovation
