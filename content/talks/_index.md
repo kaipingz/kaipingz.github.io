@@ -72,6 +72,7 @@ body {
 
 # <span style="color:black;">**Invited Talks**</span>
 
+### 2024
 [Harvard-Yenching Institute](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/), [Fairbank Center for Chinese Studies at Harvard University](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/), 2024
 
 [Boston University, Center for the Study of Asia, Pardee School of Global Studies, 2024](https://www.bu.edu/asian/2024/08/01/media-politics-and-public-opinion-in-china-implications-for-international-relations/)
@@ -81,6 +82,8 @@ body {
 National University of Singapore, Department of Communication and New Media, 2024
 
 [Nanyang Technological University, Singapore, Wee Kim Wee School of Communication and Information Asian Communication Research Center Workshop, 2024](https://wis.ntu.edu.sg/pls/webexe88/REGISTER_NTU.REGISTER?EVENT_ID=OA24011616322962)
+
+### 2023
 
 Peking University, National School of Development Political Economy Workshop, 2023
 
