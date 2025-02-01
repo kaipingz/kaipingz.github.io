@@ -29,7 +29,7 @@ body {
 
 # <span style="color:black;font-family:Times New Roman">**Publications**</span>
 
-Zhao, Z., & Zhang, K. (2025). {{% staticref "uploads/The Rule of Discourse  How Ideas and Institutions Shape China s COVID Policy.pdf" %}}“The Rule of Discourse: How Ideas and Institutions Influence China’s COVID policy.”{{% /staticref %}} *Journal of Contemporary China*, 1-21.
+Zhao, Z., & Zhang, K. (2025). {{< staticref "uploads/The Rule of Discourse  How Ideas and Institutions Shape China s COVID Policy.pdf" >}}“The Rule of Discourse: How Ideas and Institutions Influence China’s COVID policy.”{{< /staticref >}} *Journal of Contemporary China*, 1-21.
 
 Zhang, K., Zhao, J., and Meng, T. “[Governing China in Digit: A Framework for Assessing the Digital Governance in 101 Chinese Municipalities.](https://www.jstor.org/stable/48788934)” *The China Review*, 24(3),207-240. 
 
