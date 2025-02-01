@@ -43,7 +43,7 @@ body {
 
 [6] Zhang, K., and Kizilcec R. F. (2014). “[Anonymity in social media: Effects of content controversiality and social endorsement on sharing behavior.](https://ojs.aaai.org/index.php/ICWSM/article/view/14573)” *Proceedings of the Eighth International AAAI Conference on Weblogs and Social Media*. 
 
-# <span style="color:black;font-family:Times New Roman">**Publications in Chinese**</span>
+# <span style="color:black;">**Publications in Chinese**</span>
 
 [7] Zhang, K. "Experimental Methods with Generative AI in Political Communication Research" (forthcoming). *World Economy and Politics* (in Chinese) 国际政治传播研究的人工智能实验方法，《世界经济与政治》
 
