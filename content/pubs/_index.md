@@ -49,7 +49,7 @@ body {
 
 [8] Wang, T., Zhang, K., and Zhuang, M. (2025). “Can Platform-based Digital Participatory Budgeting Increase Citizen Engagement? Evidence from Big Data and Surveys.” *Public Management Review*. (in Chinese)《数字平台中介的全过程公众参与：基于平台数据与调查数据的实证分析》，《公共管理评论》， 2025年第1期.
 
-[9] Wang, T. and Zhang, K*. (2024). “Make Consultative Governance Work: Evidence from a National Survey in China.” *Peking University Political Science Review*, 17, 157-176. (in Chinese)《地方治理中的协商民主实证研究》，《北大政治学评论》，2024年第17辑。
+[9] Wang B., Zhang, K*, Wang T. (2024). “Make Consultative Governance Work: Evidence from a National Survey in China.” *Peking University Political Science Review*, 17, 157-176. (in Chinese)《地方治理中的协商民主实证研究》，《北大政治学评论》，2024年第17辑。
 
 [10] Zhang, K., Wang, T., & Zhuang, M. (2024). “Embedded Empowerment of Digital Technologies in Urban Deliberative Governance: A Case Study of Participatory Budgeting in Chengdu.” *Journal of Jiangxi Normal University*, 57(04), 54-65. (in Chinese){{< staticref "uploads/数字技术与城市协商治理的内...于C市参与式预算的案例研究_张开平.pdf">}}《数字技术与城市协商治理的内嵌式互动——基于C市参与式预算的案例研究》{{< /staticref >}}，《江西师范大学评论》，2024年第4期。
 
