@@ -24,13 +24,16 @@ main:
   #   weight: 40
   - name: Talks
     url: 'talks/'
-    weight: 40
+    weight: 45
   - name: Teaching
     url: teaching/
-    weight: 55
+    weight: 50
   - name: News
     url: news/
-    weight: 57
+    weight: 52
+  - name: Advising
+    url: advising/
+    weight: 55
   # - name: honors&grants
   #   url: honors&grants/
   #   weight: 57
