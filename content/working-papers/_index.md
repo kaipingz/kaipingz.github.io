@@ -28,7 +28,7 @@ body {
 }
 </style>
 
-# Under Review
+# <span style="color:black;font-family:Times New Roman">**Under Review**</span>
 
 Wedging and Chilling: How Government-Led Rumor Rebuttals Halt Online Activism without Persuasion 
 
@@ -42,19 +42,17 @@ Cross-platform and Cross-national Agenda Setting: How Information Flows in East 
 
 Leaders and Regime Changes in Authoritarian States (1946-2020)
 
-# Ongoing project 
+# <span style="color:black;font-family:Times New Roman">**Ongoing project**</span>
 Navigating the Tides: Reciprocity of Media Negativity in U.S.-China Relations
 
 The Affective Dilemma of Security: Spatiotemporal Dynamics of Emotions in U.S.-China Relations
 
-<!-- Zhang, K., Liu, S. and Huang, Z. “Winning Hearts and Minds: Does Social Media Propaganda Increase Affective Legitimacy?" 
+Zhang, K., Liu, S. and Huang, Z. “Winning Hearts and Minds: Does Social Media Propaganda Increase Affective Legitimacy?" 
 Top Paper Award, Political Communication Division, International Communication Association, 2023
 
 Zhang, K., Zheng, S., and Meng, T. “A Tale of Two Pandemics: Propaganda-induced Polarization in Elite Discourse of COVID-19 on Chinese Social Media.” 
 
 Zhang, K., Zhao, Z., Cao, J., & Meng, T. “The Geopolitics of Information Flow: A Cross-national, Cross-media, and Cross-platform Analysis.” 
-
-Zhao, Z. and Zhang, K. “The Rule of Discourse: How Political Discourses Influence China’s Policy Change.”
 
 Gao, S. and Zhang, K. “Does Governmental Refutation of Misinformation Halt Online Collective Action? Evidence from a Natural Experiment in China.” 
 
@@ -64,5 +62,5 @@ Wang, T. & Zhang, K*. “Does Digital Platform Increase Civic Participation in B
 
 Wang, T., Zhuang, M., & Zhang, K*. “How Digital Participatory Budgeting Empowers Deliberative Urban Governance.” (in Chinese)《数字技术如何赋能中国城市协商治理》。
 
-Wang, B., & Zhang, K*. “Four Faces of Deliberative Governance in China.” (in Chinese) 《让协商治理运转起来：公众参与的机会和意愿》。 -->
+Wang, B., & Zhang, K*. “Four Faces of Deliberative Governance in China.” (in Chinese) 《让协商治理运转起来：公众参与的机会和意愿》。
 
