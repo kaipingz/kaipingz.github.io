@@ -96,9 +96,9 @@ We are a passionate research collective made up of curious minds from diverse ac
 - Jing Zheng 
 - Haoyi Tan
 
-| wby | 图片2 | 图片3 | 图片4 | 图片5 |
+| Bingyan Wang | Tong Wang | Zijing Zhao | Jing Zheng  | Haoyi Tan |
 |-------|-------|-------|-------|-------|
-| ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  |
+| ![screen reader text](wby.jpg)  | ![screen reader text](wt.jpg)  | ![screen reader text](zjz.jpg)  | ![screen reader text](zj.jpg)  | ![screen reader text](thy.jpg)  |
 
 ## Master Students
 - Yuxuan Su
