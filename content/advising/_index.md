@@ -83,7 +83,7 @@ body {
 
 <!-- # <span style="color:black;">**Talks**</span> -->
 
-We are a passionate research collective made up of curious minds from diverse backgrounds—including history, political science, linguistics, public policy, and communication. With expertise in qualitative, quantitative, and computational methods, we dive deep into the ever-evolving world of contemporary politics. Driven by curiosity and a commitment to scientific rigor, we embrace thoughtful deliberation, celebrate the joy of discovery, uplift one another through mutual support, and push boundaries as we expand the frontiers of knowledge together.
+We are a passionate research collective made up of curious minds from diverse academic backgrounds—including history, political science, linguistics, public policy, and communication. With expertise in qualitative, quantitative, and computational methods, we dive deep into the ever-evolving world of contemporary politics. Driven by curiosity and a commitment to scientific rigor, we embrace thoughtful deliberation, celebrate the joy of discovery, uplift one another through mutual support, and push boundaries as we expand the frontiers of knowledge together.
 
 ## PhD Students
 - Bingyan Wang
@@ -93,7 +93,8 @@ We are a passionate research collective made up of curious minds from diverse ba
 - Haoyi Tan
 
 ![screen reader text](wby.jpg "caption") 
-![screen reader text](wby.jpg "caption") 
+
+<img src="wby.jpg" alt="wby" style="zoom:50%;" />
 
     <div class="students-container">
         <div class="student">
