@@ -92,6 +92,27 @@ We are a passionate research collective made up of curious minds from diverse ba
 - Jing Zheng 
 - Haoyi Tan
 
+    <div class="students-container">
+        <div class="student">
+            <img src="wby.jpg" alt="Amir Tahmasbi">
+            <div class="student-name">Amir Tahmasbi</div>
+            ![screen reader text](wbj.jpg "caption")
+        </div>
+        <div class="student">
+            <img src="wby.jpg" alt="Apoorva Vashisth">
+            <div class="student-name highlight">Apoorva Vashisth</div>
+        </div>
+        <div class="student">
+            <img src="wby.jpg" alt="Dipam Patel">
+            <div class="student-name highlight">Dipam Patel</div>
+            <div> ![screen reader text](wbj.jpg "caption") </div>
+        </div>
+        <div class="student">
+            <img src="wby.jpg" alt="Divyanshu Daiya">
+            <div class="student-name highlight">Divyanshu Daiya</div>
+        </div>
+    </div>
+
 ## Master Students
 - Yuxuan Su
 
