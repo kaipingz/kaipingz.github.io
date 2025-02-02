@@ -69,6 +69,10 @@ image:
 # projects:
 #   - example
 share: false
+
+banner:
+  image: 'group.jpg'
+  caption: 'Group Photo'
 ---
 <!-- <style>
 /* 修改 body 的文字颜色为 #666666 (深灰) */
