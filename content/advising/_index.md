@@ -92,6 +92,11 @@ We are a passionate research collective made up of curious minds from diverse ac
 - Jing Zheng 
 - Haoyi Tan
 
+| 图片1 | 图片2 | 图片3 | 图片4 | 图片5 |
+|-------|-------|-------|-------|-------|
+| ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  |
+
+
 ![screen reader text](wby.jpg "caption") 
 
 <img src="https://github.com/kaipingz/kaipingz.github.io/blob/main/assets/media/wby.jpg" alt="wby" style="zoom:50%;" />
