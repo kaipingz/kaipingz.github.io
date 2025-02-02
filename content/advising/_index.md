@@ -92,6 +92,9 @@ We are a passionate research collective made up of curious minds from diverse ba
 - Jing Zheng 
 - Haoyi Tan
 
+![screen reader text](wby.jpg "caption") 
+![screen reader text](wby.jpg "caption") 
+
     <div class="students-container">
         <div class="student">
             <img src="wby.jpg" alt="Amir Tahmasbi">
