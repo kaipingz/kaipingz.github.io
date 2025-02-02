@@ -28,6 +28,8 @@ body {
 
 <!-- # <span style="color:black;">**Teaching**</span> -->
 
+{{< video src="video.mp4" controls="yes" >}}
+
 # Teaching
 
 ### Lecturer, Department of Political Science, Tsinghua University, 2019 - 
