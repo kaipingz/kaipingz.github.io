@@ -37,12 +37,12 @@ description: ''
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
-image:
-  placement: 1
-  caption: 'News Photo'
-  focal_point: 'Center'
-  preview_only: false
-  alt_text: None
+# image:
+#   placement: 1
+#   caption: 'News Photo'
+#   focal_point: 'Center'
+#   preview_only: false
+#   alt_text: None
 
 # links:
 #   - icon: twitter
@@ -68,11 +68,11 @@ image:
 # #   Otherwise, set `projects = []`.
 # projects:
 #   - example
-share: false
-
 banner:
   image: 'group.jpg'
   caption: 'Group Photo'
+
+share: false
 ---
 <!-- <style>
 /* 修改 body 的文字颜色为 #666666 (深灰) */
