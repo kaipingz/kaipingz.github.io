@@ -86,8 +86,14 @@ body {
 We are a passionate research collective made up of curious minds from diverse backgrounds—including history, political science, linguistics, public policy, and communication. With expertise in qualitative, quantitative, and computational methods, we dive deep into the ever-evolving world of contemporary politics. Driven by curiosity and a commitment to scientific rigor, we embrace thoughtful deliberation, celebrate the joy of discovery, uplift one another through mutual support, and push boundaries as we expand the frontiers of knowledge together.
 
 ## PhD Students
-- 
+- Wang Bingyan
+- Tong Wang
+- Zijing Zhao
+- Zheng Jing
+- Tan Haoyi
+
 ## Master Students
+- Fu Yuxuan
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
