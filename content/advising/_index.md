@@ -98,9 +98,9 @@ We are a passionate research collective made up of curious minds from diverse ac
 | ![screen reader text](wby.jpg)  | ![screen reader text](wt.jpg)  | ![screen reader text](zjz.png)  | ![screen reader text](zj.jpg)  | ![screen reader text](thy.jpg)  |
 
 ## Master Students
-| Yuxuan Su | 
-|-------|
-| ![screen reader text](syx.jpg)  |
+| Yuxuan Su |  | | | |
+|-------|-----|----|----|----|
+| ![screen reader text](syx.jpg)  | | | | |
 
 
 <!-- {{% callout note %}}
