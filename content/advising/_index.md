@@ -94,7 +94,7 @@ We are a passionate research collective made up of curious minds from diverse ac
 
 ![screen reader text](wby.jpg "caption") 
 
-<img src="wby.jpg" alt="wby" style="zoom:50%;" />
+<img src="https://github.com/kaipingz/kaipingz.github.io/blob/main/assets/media/wby.jpg" alt="wby" style="zoom:50%;" />
 
     <div class="students-container">
         <div class="student">
