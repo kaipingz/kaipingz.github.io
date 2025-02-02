@@ -101,7 +101,7 @@ We are a passionate research collective made up of curious minds from diverse ac
 
 | Bingyan Wang | Tong Wang | Zijing Zhao | Jing Zheng  | Haoyi Tan |
 |-------|-------|-------|-------|-------|
-| ![screen reader text](wby.jpg)  | ![screen reader text](wt.jpg)  | ![screen reader text](zjz.jpg)  | ![screen reader text](zj.jpg)  | ![screen reader text](thy.jpg)  |
+| ![screen reader text](wby.jpg)  | ![screen reader text](wt.jpg)  | ![screen reader text](zjz.png)  | ![screen reader text](zj.jpg)  | ![screen reader text](thy.jpg)  |
 
 ## Master Students
 - Yuxuan Su
