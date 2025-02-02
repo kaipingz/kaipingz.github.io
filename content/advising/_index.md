@@ -93,9 +93,11 @@ body {
 We are a passionate research collective made up of curious minds from diverse academic backgrounds—including history, political science, linguistics, public policy, and communication. With expertise in qualitative, quantitative, and computational methods, we dive deep into the ever-evolving world of contemporary politics. Driven by curiosity and a commitment to scientific rigor, we embrace thoughtful deliberation, celebrate the joy of discovery, uplift one another through mutual support, and push boundaries as we expand the frontiers of knowledge together.
 
 ## PhD Students
-|  |  |  |  |  |
+<!-- |  |  |  |  |  |
 |-------|-------|-------|-------|-------|
+| ![screen reader text](wby.jpg "Bingyan Wang")  | ![screen reader text](wt.jpg "Tong Wang")  | ![screen reader text](zjz.png "Zijing Zhao")  | ![screen reader text](zj.jpg "Jing Zheng")  | ![screen reader text](thy.jpg "Haoyi Tan")  | -->
 | ![screen reader text](wby.jpg "Bingyan Wang")  | ![screen reader text](wt.jpg "Tong Wang")  | ![screen reader text](zjz.png "Zijing Zhao")  | ![screen reader text](zj.jpg "Jing Zheng")  | ![screen reader text](thy.jpg "Haoyi Tan")  |
+|-------|-------|-------|-------|-------|
 
 ## Master Students
 [Yuxuan Su](https://github.com/Yuxuan-THU)
