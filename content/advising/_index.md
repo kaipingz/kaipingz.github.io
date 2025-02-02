@@ -96,7 +96,7 @@ We are a passionate research collective made up of curious minds from diverse ba
         <div class="student">
             <img src="wby.jpg" alt="Amir Tahmasbi">
             <div class="student-name">Amir Tahmasbi</div>
-            ![screen reader text](wbj.jpg "caption")
+            ![screen reader text](wby.jpg "caption")
         </div>
         <div class="student">
             <img src="wby.jpg" alt="Apoorva Vashisth">
@@ -105,7 +105,7 @@ We are a passionate research collective made up of curious minds from diverse ba
         <div class="student">
             <img src="wby.jpg" alt="Dipam Patel">
             <div class="student-name highlight">Dipam Patel</div>
-            <div> ![screen reader text](wbj.jpg "caption") </div>
+            <div> ![screen reader text](wby.jpg "caption") </div>
         </div>
         <div class="student">
             <img src="wby.jpg" alt="Divyanshu Daiya">
