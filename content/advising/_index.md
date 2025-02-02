@@ -80,7 +80,11 @@ body {
     color: #666666 !important;
 }
 </style> -->
-
+<style>
+    table, th, td {
+        border: none !important;
+    }
+</style>
 <!-- # <span style="color:black;">**Talks**</span> -->
 
 We are a passionate research collective made up of curious minds from diverse academic backgrounds—including history, political science, linguistics, public policy, and communication. With expertise in qualitative, quantitative, and computational methods, we dive deep into the ever-evolving world of contemporary politics. Driven by curiosity and a commitment to scientific rigor, we embrace thoughtful deliberation, celebrate the joy of discovery, uplift one another through mutual support, and push boundaries as we expand the frontiers of knowledge together.
@@ -92,35 +96,9 @@ We are a passionate research collective made up of curious minds from diverse ac
 - Jing Zheng 
 - Haoyi Tan
 
-| 图片1 | 图片2 | 图片3 | 图片4 | 图片5 |
+| wby | 图片2 | 图片3 | 图片4 | 图片5 |
 |-------|-------|-------|-------|-------|
 | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  | ![screen reader text](wby.jpg "caption")  |
-
-
-![screen reader text](wby.jpg "caption") 
-
-<img src="https://github.com/kaipingz/kaipingz.github.io/blob/main/assets/media/wby.jpg" alt="wby" style="zoom:50%;" />
-
-    <div class="students-container">
-        <div class="student">
-            <img src="wby.jpg" alt="Amir Tahmasbi">
-            <div class="student-name">Amir Tahmasbi</div>
-            ![screen reader text](wby.jpg "caption")
-        </div>
-        <div class="student">
-            <img src="wby.jpg" alt="Apoorva Vashisth">
-            <div class="student-name highlight">Apoorva Vashisth</div>
-        </div>
-        <div class="student">
-            <img src="wby.jpg" alt="Dipam Patel">
-            <div class="student-name highlight">Dipam Patel</div>
-            <div> ![screen reader text](wby.jpg "caption") </div>
-        </div>
-        <div class="student">
-            <img src="wby.jpg" alt="Divyanshu Daiya">
-            <div class="student-name highlight">Divyanshu Daiya</div>
-        </div>
-    </div>
 
 ## Master Students
 - Yuxuan Su
