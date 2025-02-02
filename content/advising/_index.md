@@ -100,9 +100,9 @@ We are a passionate research collective made up of curious minds from diverse ac
 |-------|-------|-------|-------|-------|
 
 ## Master Students
-[Yuxuan Su](https://github.com/Yuxuan-THU)
 
-![screen reader text](syx.jpg)
+
+![screen reader text](syx.jpg "[Yuxuan Su](https://github.com/Yuxuan-THU)")
 <!-- | [Yuxuan Su](https://github.com/Yuxuan-THU) |  | | | |
 |-------|-----|----|----|----|
 | ![screen reader text](syx.jpg)  | | | | | -->

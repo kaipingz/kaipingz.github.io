@@ -33,6 +33,8 @@ interests:
   - Political communication
   - Deliberative democracy
   - Computational social science
+  - Political psychology
+  - Sino-U.S. relations
 
 # Education to show in About widget
 education:
