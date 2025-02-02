@@ -84,6 +84,9 @@ body {
     table, th, td {
         border: none !important;
     }
+    th {
+        text-align: center;
+    }
 </style>
 <!-- # <span style="color:black;">**Talks**</span> -->
 
