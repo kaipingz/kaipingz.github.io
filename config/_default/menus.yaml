@@ -31,9 +31,12 @@ main:
   - name: News
     url: news/
     weight: 52
+  - name: Articles
+    url: articles/
+    weight: 54
   - name: Advising
     url: advising/
-    weight: 55
+    weight: 56
   # - name: honors&grants
   #   url: honors&grants/
   #   weight: 57
