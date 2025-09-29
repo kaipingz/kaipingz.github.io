@@ -72,7 +72,7 @@ body {
 
 <!-- # <span style="color:black;">**Talks**</span> -->
 
-# Articles
+# Public Voices
 [在归来与启航之间 | 教师代表张开平在清华大学社科学院开学典礼上的发言](https://mp.weixin.qq.com/s?__biz=MzAxMTQ3Nzc1Mg==&mid=2649483134&idx=2&sn=6f00657183897ae61d3435dc25ef682d&chksm=82b60f5e8f751e3a811d08ec1943edae2138d15b0b4e772f81373d0481a052594193d7299e54&scene=27). (2025)
 
 [张开平副教授出席2023年清华大学新闻传播学博士生学术论坛](https://www.dps.tsinghua.edu.cn/info/1197/2896.htm). (2023)
