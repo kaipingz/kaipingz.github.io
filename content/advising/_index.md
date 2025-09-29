@@ -98,7 +98,7 @@ We are a passionate research collective made up of curious minds from diverse ac
 <!-- |  |  |  |  |  |
 |-------|-------|-------|-------|-------|
 | ![screen reader text](wby.jpg "Bingyan Wang")  | ![screen reader text](wt.jpg "Tong Wang")  | ![screen reader text](zjz.png "Zijing Zhao")  | ![screen reader text](zj.jpg "Jing Zheng")  | ![screen reader text](thy.jpg "Haoyi Tan")  | -->
-| ![screen reader text](wby.jpg "Bingyan Wang")  | ![screen reader text](wt.jpg "Tong Wang (graduated, associate professor at Ningxia University)")  | ![screen reader text](zjz.png "Zijing Zhao")  | ![screen reader text](zj.jpg "Jing Zheng")  | ![screen reader text](thy.jpg "Haoyi Tan")  |
+| ![screen reader text](wby.jpg "Bingyan Wang")  | ![screen reader text](wt.jpg "Tong Wang<br> (graduated, <br> associate professor at Ningxia University)")  | ![screen reader text](zjz.png "Zijing Zhao")  | ![screen reader text](zj.jpg "Jing Zheng")  | ![screen reader text](thy.jpg "Haoyi Tan")  |
 |-------|-------|-------|-------|-------|
 
 <!-- ## Master Students
