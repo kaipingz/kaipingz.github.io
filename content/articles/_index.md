@@ -73,12 +73,12 @@ body {
 <!-- # <span style="color:black;">**Talks**</span> -->
 
 # Articles
-1. [在归来与启航之间 | 教师代表张开平在清华大学社科学院开学典礼上的发言](https://mp.weixin.qq.com/s?__biz=MzAxMTQ3Nzc1Mg==&mid=2649483134&idx=2&sn=6f00657183897ae61d3435dc25ef682d&chksm=82b60f5e8f751e3a811d08ec1943edae2138d15b0b4e772f81373d0481a052594193d7299e54&scene=27). (2025)
+[在归来与启航之间 | 教师代表张开平在清华大学社科学院开学典礼上的发言](https://mp.weixin.qq.com/s?__biz=MzAxMTQ3Nzc1Mg==&mid=2649483134&idx=2&sn=6f00657183897ae61d3435dc25ef682d&chksm=82b60f5e8f751e3a811d08ec1943edae2138d15b0b4e772f81373d0481a052594193d7299e54&scene=27). (2025)
 
-2. [张开平副教授出席2023年清华大学新闻传播学博士生学术论坛](https://www.dps.tsinghua.edu.cn/info/1197/2896.htm). (2023)
+[张开平副教授出席2023年清华大学新闻传播学博士生学术论坛](https://www.dps.tsinghua.edu.cn/info/1197/2896.htm). (2023)
 
-3. [以学科交叉推动政治学发展](https://www.gmw.cn/xueshu/2023-09/01/content_36804474.htm). (2023)
+[以学科交叉推动政治学发展](https://www.gmw.cn/xueshu/2023-09/01/content_36804474.htm). (2023)
 
-4. [张开平：十年，走过世界，归来清华](https://www.tsinghua.org.cn/info/1954/21435.htm). (2019)
+[张开平：十年，走过世界，归来清华](https://www.tsinghua.org.cn/info/1954/21435.htm). (2019)
 
-5. [【冰点】：哈佛的幸福课](https://zqb.cyol.com/content/2007-09/12/content_1890676.htm). (2007)
+[【冰点】：哈佛的幸福课](https://zqb.cyol.com/content/2007-09/12/content_1890676.htm). (2007)
