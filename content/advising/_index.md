@@ -95,20 +95,12 @@ body {
 We are a passionate research collective made up of curious minds from diverse academic backgrounds—including history, political science, linguistics, public policy, and communication. With expertise in qualitative, quantitative, and computational methods, we dive deep into the ever-evolving world of contemporary politics. Driven by curiosity and a commitment to scientific rigor, we embrace thoughtful deliberation, celebrate the joy of discovery, uplift one another through mutual support, and push boundaries as we expand the frontiers of knowledge together.
 
 ## PhD Students
-<!-- |  |  |  |  |  |
-|-------|-------|-------|-------|-------|
-| ![screen reader text](wby.jpg "Bingyan Wang")  | ![screen reader text](wt.jpg "Tong Wang")  | ![screen reader text](zjz.png "Zijing Zhao")  | ![screen reader text](zj.jpg "Jing Zheng")  | ![screen reader text](thy.jpg "Haoyi Tan")  | -->
-| ![screen reader text](wby.jpg "Bingyan Wang")  | ![screen reader text](wt.jpg "Tong Wang(Associate Professor, Ningxia University)")  | ![screen reader text](zjz.png "Zijing Zhao")  | ![screen reader text](zj.jpg "Jing Zheng")  | ![screen reader text](thy.jpg "Haoyi Tan")  |
-|-------|-------|-------|-------|-------|
+<!-- | ![screen reader text](wby.jpg "Bingyan Wang")  | ![screen reader text](wt.jpg "Tong Wang(Associate Professor, Ningxia University)")  | ![screen reader text](zjz.png "Zijing Zhao")  | ![screen reader text](zj.jpg "Jing Zheng")  | ![screen reader text](thy.jpg "Haoyi Tan")  |
+|-------|-------|-------|-------|-------| -->
+| <img src="wby.jpg" width="120"/> | <img src="wt.jpg" width="120"/> | <img src="zjz.png" width="120"/> | <img src="zj.jpg" width="120"/> | <img src="thy.jpg" width="120"/> |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| **Bingyan Wang** | **Tong Wang**<br/>(Associate Professor, Ningxia University) | **Zijing Zhao** | **Jing Zheng** | **Haoyi Tan** |
 
-<!-- ## Master Students
-
-
-![screen reader text](syx.jpg "[Yuxuan Su](https://github.com/Yuxuan-THU)") -->
-
-<!-- | [Yuxuan Su](https://github.com/Yuxuan-THU) |  | | | |
-|-------|-----|----|----|----|
-| ![screen reader text](syx.jpg)  | | | | | -->
 
 
 <!-- {{% callout note %}}
