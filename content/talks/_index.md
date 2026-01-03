@@ -74,7 +74,17 @@ body {
 
 # Talks
 
+### 2026
+Center for Deliberative Democracy, University of Canberra, 2026
+
+Korea-China Emerging Scholars Forum, Jeju Island, 2026
+
 ### 2025
+
+[The 18th China-South Korea Forum, 2025](https://www.dps.tsinghua.edu.cn/info/1197/3521.htm)
+
+Communication University of China, 2025
+
 Harvard Kennedy School, Ash Center for Democratic Governance and Innovation
 
 ### 2024
