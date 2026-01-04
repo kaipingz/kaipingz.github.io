@@ -106,8 +106,7 @@ social:
   - icon: researchgate
     icon_pack: ai # ai
     link: https://www.researchgate.net/profile/Kaiping-Zhang
-  - icon: google-scholar
-    icon_pack: academicons
+  - icon: academicons/google-scholar
     link: https://scholar.google.com/citations?user=g-ltM-UAAAAJ&hl=en
 # % The Chinese version is [here](https://github.com/lzhyu/lzhyu.github.io/blob/main/static/uploads/CV-Kaiping-Chinese-20240220.pdf).
 # Highlight the author in author lists? (true/false)
