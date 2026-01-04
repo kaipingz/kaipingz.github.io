@@ -72,20 +72,20 @@ body {
 
 <!-- # <span style="color:black;">**Talks**</span> -->
 
-# Talks
+# Selected Talks
 
 ### 2026
-Center for Deliberative Democracy, University of Canberra, 2026
+Center for Deliberative Democracy, University of Canberra
 
-Korea-China Emerging Scholars Forum, Jeju Island, 2026
+Korea-China Emerging Scholars Forum, Jeju Island
 
 ### 2025
-
-[The 18th China-South Korea Forum, 2025](https://www.dps.tsinghua.edu.cn/info/1197/3521.htm)
-
-Communication University of China, 2025
-
 Harvard Kennedy School, Ash Center for Democratic Governance and Innovation
+
+[The 18th China-South Korea Forum](https://www.dps.tsinghua.edu.cn/info/1197/3521.htm)
+
+Communication University of China
+
 
 ### 2024
 [Harvard-Yenching Institute](https://www.harvard-yenching.org/events/kaiping-zhang-governing-china-in-the-digital-age/), [Fairbank Center for Chinese Studies at Harvard University](https://fairbank.fas.harvard.edu/events/kaiping-zhang-governing-china-in-the-digital-age-legacies-challenges-and-transformations/)
