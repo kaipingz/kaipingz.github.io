@@ -75,6 +75,10 @@ body {
 # Selected Talks
 
 ### 2026
+Pacific Conference, Pomona College
+
+School of Journalism and Communication, Tsinghua University
+
 Center for Deliberative Democracy, University of Canberra
 
 Korea-China Emerging Scholars Forum, Jeju Island

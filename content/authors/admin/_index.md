@@ -126,7 +126,7 @@ My research focuses on Chinese politics, political communication, and deliberati
 My scholarly work has appeared in peer-reviewed journals, including *Political Psychology*, *Social Science & Medicine*, and *Journal of Contemporary China*, among others. My work has also been featured in top-tier Chinese journals. I have received several awards, notably the Tang Zhongying Outstanding Junior Scholar and Top Paper Award from the Division of Political Communication at the 73rd Annual Conference of the International Communication Association.
 
 
-{{% staticref "uploads/Curriculum Vitae_Kaiping Zhang_202601.pdf" %}}This is my CV{{% /staticref %}}. 
+{{% staticref "uploads/Curriculum Vitae_Kaiping Zhang_202603.pdf" %}}This is my CV{{% /staticref %}}. 
 <!---{{% staticref "uploads/CV-Kaiping-Chinese-20240220.pdf" %}} The Chinese version is here {{% /staticref %}}.--->
 
 {style="text-align: justify;"}

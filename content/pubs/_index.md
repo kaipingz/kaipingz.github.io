@@ -120,4 +120,4 @@ body {
 
 [3]	Zhang, K., & Tang, F. (2020). “Experimental Methods for the Study of American Politics.” *Chinese Journal of American Studies* (CSSCI), 34(03):142-160. (in Chinese)[《实验方法及其在美国政治研究的应用》](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=MGYJ202003009&uniplatform=OVERSEA&v=JF7XMrJaucde02Azis4svsYGEE8zleifepPIwPgeNM3VHYh3rpojyI6gBREKSDO4)，《美国研究》，2020年第3期。
 
-[4]	Liu, Y., Zhu, M., Zhang, K*, & Wu, W. The Power of “Big Brothers”: Political Leaders and Regime Changes in Authoritarian States (R&R)
+[4]	Liu, Y., Zhu, M., Zhang, K*, & Wu, W (2026). The Power of “Big Brothers”: Political Leaders and Regime Changes in Authoritarian States. International Political Science Review.
